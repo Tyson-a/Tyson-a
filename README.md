@@ -31,18 +31,6 @@ Hello! I'm Tyson, a passionate developer dedicated to crafting efficient and inn
 
 ---
 
-### 🚀 Featured Projects
-
-<a href="https://github.com/Tyson-a/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tyson-a&repo=project1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/Tyson-a/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tyson-a&repo=project2&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
----
-
 
 ### 🌱 Current Learning Goals
 
